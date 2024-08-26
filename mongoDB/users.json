@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "first_name": "Lucas",
+      "last_name": "Madrigal",
+      "email": "lucas.madrigal@example.com",
+      "password": "hashed_password_1",
+      "phone": "123-456-7890",
+      "address": {
+        "street": "123 Main St",
+        "city": "Buenos Aires",
+        "state": "Buenos Aires",
+        "zip_code": "1000"
+      },
+      "created_at": "2024-08-16T10:00:00Z",
+      "updated_at": "2024-08-16T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "first_name": "Maria",
+      "last_name": "Gonzalez",
+      "email": "maria.gonzalez@example.com",
+      "password": "hashed_password_2",
+      "phone": "098-765-4321",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Rosario",
+        "state": "Santa Fe",
+        "zip_code": "2000"
+      },
+      "created_at": "2024-08-16T11:00:00Z",
+      "updated_at": "2024-08-16T11:00:00Z"
+    },
+    {
+      "id": 3,
+      "first_name": "Juan",
+      "last_name": "Perez",
+      "email": "juan.perez@example.com",
+      "password": "hashed_password_3",
+      "phone": "321-654-9870",
+      "address": {
+        "street": "789 Oak St",
+        "city": "Cordoba",
+        "state": "Cordoba",
+        "zip_code": "5000"
+      },
+      "created_at": "2024-08-16T12:00:00Z",
+      "updated_at": "2024-08-16T12:00:00Z"
+    },
+    {
+      "id": 4,
+      "first_name": "Sofia",
+      "last_name": "Martinez",
+      "email": "sofia.martinez@example.com",
+      "password": "hashed_password_4",
+      "phone": "456-789-0123",
+      "address": {
+        "street": "101 Pine St",
+        "city": "Mendoza",
+        "state": "Mendoza",
+        "zip_code": "5500"
+      },
+      "created_at": "2024-08-16T13:00:00Z",
+      "updated_at": "2024-08-16T13:00:00Z"
+    }
+  ]
+  
